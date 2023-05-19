@@ -1,0 +1,10 @@
+# Project exclude paths
+/cloud_eureka_client5501/target/
+/cloud_eureka_consumer6100/target/
+/cloud_eureka_example_server8761/target/
+/cloud_eureka_provider6000/target/
+/cloud_eureka_server5000/target/
+/cloud_eureka_server5001/target/
+/cloud_eureka_server5002/target/
+/cloud_eureka_server5003/target/
+/cloud_third-service-cos1111/target/
